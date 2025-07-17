@@ -14,6 +14,7 @@
 - `git status` - shows changes added but not commited
 - `git log` - shows commit ready to be pushed
 - `git clone` -  copy a repo and keep it connected to same remote repo
+- `git branch <branch name>` - create alternative branch
 
 # Making a git commit to GitHub:
 - `git add .`      - stages current state of project, to be committed (git add all)
